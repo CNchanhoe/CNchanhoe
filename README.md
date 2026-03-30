@@ -23,7 +23,7 @@
          <a href=mailto:chan050714@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:chan050714@gmail.com"> </a>
           </div> 
         <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📈 </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2> <br> 
             
 [![Chanhoe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CNchanhoe&theme=high-contrast)](https://github.com/CNchanhoe/github-readme-activity-graph)
 
