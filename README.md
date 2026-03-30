@@ -22,5 +22,6 @@
     <div align= "center"> <a href=https://www.instagram.com/inout._.hoy?igsh=b3Y5bjJzejNuMmJz&utm_source=qr> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/inout._.hoy?igsh=b3Y5bjJzejNuMmJz&utm_source=qr"> </a>
          <a href=mailto:chan050714@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:chan050714@gmail.com"> </a>
           </div>  <br> 
+        
 [![Chanhoe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CNchanhoe&theme=high-contrast)](https://github.com/CNchanhoe/github-readme-activity-graph)
 
