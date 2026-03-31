@@ -15,7 +15,10 @@
           <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"> 
-          <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=AutoCAD&logoColor=white"> 
+          <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=AutoCAD&logoColor=white">
+          <img src="https://img.shields.io/badge/NX-143055?style=flat&logo=NX&logoColor=white">
+          <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white"> 
+          <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white"> 
           </div>
     </div>
     <div align= "center">
