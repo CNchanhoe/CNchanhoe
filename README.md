@@ -20,7 +20,7 @@ I am an AI researcher and systems engineer currently pursuing an undergraduate d
 ### Core Capabilities
 
 * **Deep Learning & Optimization:** Investigating architectural efficiencies and robust model performance, including the evaluation of advanced initialization strategies and ensemble methods to maximize predictive accuracy.
-* **Medical AI & Image Segmentation:** Highly proficient in applying deep learning to medical imaging. Experienced in training and optimizing state-of-the-art architectures (e.g., U-Net, nnU-Net) for precise anatomical segmentation.
+* **Medical AI & Image Segmentation:** Highly proficient in applying deep learning to medical imaging. Experienced in training and optimizing state-of-the-art architectures for precise anatomical segmentation.
 * **Applied Computer Vision:** Designing and optimizing deep neural networks for complex spatial classification, advanced semantic feature extraction, and video-based sequence modeling. 
 * **Broad Engineering Foundation:** Possessing comprehensive academic training across mechanical modeling, electrical systems, biochemistry, and robotics. This cross-disciplinary domain knowledge provides a unique edge when developing and integrating AI systems for physical and biological environments.
 
