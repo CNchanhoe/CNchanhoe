@@ -1,6 +1,6 @@
 # CHANHOE
 
-**Machine Learning Researcher | Systems Engineer**
+**Multidisciplinary Systems Engineer | AI Researcher**
 
 [Email Me](mailto:chan050714@gmail.com) | [Instagram](https://www.instagram.com/inout._.hoy?igsh=b3Y5bjJzejNuMmJz&utm_source=qr)
 
@@ -8,35 +8,48 @@
 
 ### Overview
 
-I am an AI programmer and systems engineer currently pursuing an undergraduate degree in Biorobotics Systems Engineering. My primary research focus lies at the intersection of deep learning and computer vision, specifically applied to medical image segmentation and advanced algorithmic modeling.
+I am a systems engineer and AI programmer currently pursuing an undergraduate degree in Biorobotics Systems Engineering. My expertise bridges the gap between complex hardware systems and advanced software, combining a strong foundation in mechanical and electrical engineering with cutting-edge machine learning architectures. 
 
 * **Current Role:** Undergraduate Researcher in a Machine Learning Laboratory.
-* **Research Interests:** Deep Learning architectures, Computer Vision, Medical Image Segmentation, and Quantitative Modeling.
-* **Technical Integration:** Combining software-driven machine learning algorithms with hardware-focused CAD modeling to engineer comprehensive systems solutions.
-* **Objective:** Advancing research in artificial intelligence with the long-term objective of pursuing an academic career as a university professor.
+* **Research Focus:** Deep Learning Optimization, Medical Image Processing, Quantitative Modeling, and Computer Vision.
+* **Multidisciplinary Approach:** Seamlessly integrating software-driven AI algorithms with physical hardware and financial frameworks, leveraging everything from mechanical kinematics and precision CAD modeling to high-frequency algorithmic trading.
+* **Objective:** Advancing research in artificial intelligence and biorobotic systems, with the long-term objective of pursuing an academic career as a university professor.
+
+---
+
+### Core Capabilities
+
+* **Deep Learning & Optimization:** Investigating architectural efficiencies and robust model performance, including the evaluation of advanced initialization strategies and ensemble methods.
+* **Medical AI & Computer Vision:** Highly proficient in applying deep learning to medical imaging, training architectures like U-Net and nnU-Net for precise anatomical segmentation, as well as developing models for dynamic motion analysis.
+* **Quantitative Finance & Modeling:** Developing predictive alpha models, backtesting frameworks, and algorithmic trading strategies using data-driven machine learning techniques.
+* **Systems Engineering & CAD:** Competent in integrating electrical and mechanical systems. Experienced in translating theoretical models into functional, real-world designs using advanced CAD tools for precise mechanical kinematics (e.g., complex gear ratio systems).
 
 ---
 
 ### Technical Proficiency
 
-**Programming Languages**
+**Programming & Scripting**
 <br>
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Machine Learning & Data Science**
+**Machine Learning, AI & Data Science**
 <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Engineering & Computer-Aided Design**
+**Engineering, CAD & Robotics**
 <br>
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 ![Siemens NX](https://img.shields.io/badge/Siemens_NX-000000?style=flat-square&logo=siemens&logoColor=white)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros_3D-8B0000?style=flat-square&logo=rhinoceros&logoColor=white)
