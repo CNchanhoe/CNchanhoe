@@ -58,8 +58,8 @@ I am a systems engineer and AI programmer currently pursuing an undergraduate de
 
 ### GitHub Analytics
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CNchanhoe&theme=dark)
-
 ![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CNchanhoe&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CNchanhoe&hide_border=true&theme=dark)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CNchanhoe&theme=dark)
