@@ -11,18 +11,18 @@
 I am a systems engineer and AI programmer currently pursuing an undergraduate degree in Biorobotics Systems Engineering. My expertise bridges the gap between complex hardware systems and advanced software, combining a strong foundation in mechanical and electrical engineering with cutting-edge machine learning architectures. 
 
 * **Current Role:** Undergraduate Researcher in a Machine Learning Laboratory.
-* **Research Focus:** Deep Learning Optimization, Medical Image Processing, Quantitative Modeling, and Computer Vision.
-* **Multidisciplinary Approach:** Seamlessly integrating software-driven AI algorithms with physical hardware and financial frameworks, leveraging everything from mechanical kinematics and precision CAD modeling to high-frequency algorithmic trading.
-* **Objective:** Advancing research in artificial intelligence and biorobotic systems, with the long-term objective of pursuing an academic career as a university professor.
+* **Research Focus:** Deep Learning Optimization, Medical Image Processing, and Computer Vision.
+* **Multidisciplinary Approach:** Seamlessly integrating software-driven AI algorithms with physical hardware, leveraging mechanical kinematics, precision CAD modeling, and advanced data processing to build comprehensive systems.
+* **Objective:** Advancing research in artificial intelligence and biorobotic systems to drive innovative, real-world solutions in healthcare and engineering.
 
 ---
 
 ### Core Capabilities
 
 * **Deep Learning & Optimization:** Investigating architectural efficiencies and robust model performance, including the evaluation of advanced initialization strategies and ensemble methods.
-* **Medical AI & Computer Vision:** Highly proficient in applying deep learning to medical imaging, training architectures like U-Net and nnU-Net for precise anatomical segmentation, as well as developing models for dynamic motion analysis.
-* **Quantitative Finance & Modeling:** Developing predictive alpha models, backtesting frameworks, and algorithmic trading strategies using data-driven machine learning techniques.
-* **Systems Engineering & CAD:** Competent in integrating electrical and mechanical systems. Experienced in translating theoretical models into functional, real-world designs using advanced CAD tools for precise mechanical kinematics (e.g., complex gear ratio systems).
+* **Medical AI & Image Segmentation:** Highly proficient in applying deep learning to medical imaging. Experienced in training and optimizing state-of-the-art architectures (e.g., U-Net, nnU-Net) for precise anatomical segmentation, specifically targeting complex bone structures and tissues.
+* **Applied Computer Vision:** Developing robust models for spatial classification, feature extraction, and dynamic motion analysis, enabling real-time human kinematics tracking.
+* **Systems Engineering & CAD:** Competent in integrating electrical and mechanical systems. Experienced in translating theoretical models into functional designs using advanced CAD tools for precise mechanical kinematics (e.g., complex gear ratio systems).
 
 ---
 
@@ -58,8 +58,8 @@ I am a systems engineer and AI programmer currently pursuing an undergraduate de
 
 ### GitHub Analytics
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CNchanhoe&theme=dark)
+
 ![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CNchanhoe&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CNchanhoe&hide_border=true&theme=dark)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CNchanhoe&theme=dark)
