@@ -8,21 +8,21 @@
 
 ### Overview
 
-I am a systems engineer and AI programmer currently pursuing an undergraduate degree in Biorobotics Systems Engineering. My expertise bridges the gap between complex hardware systems and advanced software, combining a strong foundation in mechanical and electrical engineering with cutting-edge machine learning architectures. 
+I am an AI researcher and systems engineer currently pursuing an undergraduate degree in Biorobotics Systems Engineering. My expertise bridges the gap between complex physical systems and advanced software, combining a strong, multidisciplinary engineering foundation with cutting-edge machine learning architectures. 
 
 * **Current Role:** Undergraduate Researcher in a Machine Learning Laboratory.
 * **Research Focus:** Deep Learning Optimization, Medical Image Processing, and Computer Vision.
-* **Multidisciplinary Approach:** Seamlessly integrating software-driven AI algorithms with physical hardware, leveraging mechanical kinematics, precision CAD modeling, and advanced data processing to build comprehensive systems.
-* **Objective:** Advancing research in artificial intelligence and biorobotic systems to drive innovative, real-world solutions in healthcare and engineering.
+* **Multidisciplinary Approach:** Leveraging a comprehensive background in mechanics, electrical and electronic engineering, chemistry, biology, and robotics to design practical AI models that solve complex, real-world problems.
+* **Objective:** Advancing research in artificial intelligence to drive innovative, data-driven solutions in healthcare, robotics, and integrated technology.
 
 ---
 
 ### Core Capabilities
 
-* **Deep Learning & Optimization:** Investigating architectural efficiencies and robust model performance, including the evaluation of advanced initialization strategies and ensemble methods.
-* **Medical AI & Image Segmentation:** Highly proficient in applying deep learning to medical imaging. Experienced in training and optimizing state-of-the-art architectures (e.g., U-Net, nnU-Net) for precise anatomical segmentation, specifically targeting complex bone structures and tissues.
-* **Applied Computer Vision:** Developing robust models for spatial classification, feature extraction, and dynamic motion analysis, enabling real-time human kinematics tracking.
-* **Systems Engineering & CAD:** Competent in integrating electrical and mechanical systems. Experienced in translating theoretical models into functional designs using advanced CAD tools for precise mechanical kinematics (e.g., complex gear ratio systems).
+* **Deep Learning & Optimization:** Investigating architectural efficiencies and robust model performance, including the evaluation of advanced initialization strategies and ensemble methods to maximize predictive accuracy.
+* **Medical AI & Image Segmentation:** Highly proficient in applying deep learning to medical imaging. Experienced in training and optimizing state-of-the-art architectures (e.g., U-Net, nnU-Net) for precise anatomical segmentation.
+* **Applied Computer Vision:** Designing and optimizing deep neural networks for complex spatial classification, advanced semantic feature extraction, and video-based sequence modeling. 
+* **Broad Engineering Foundation:** Possessing comprehensive academic training across mechanical modeling, electrical systems, biochemistry, and robotics. This cross-disciplinary domain knowledge provides a unique edge when developing and integrating AI systems for physical and biological environments.
 
 ---
 
@@ -58,8 +58,8 @@ I am a systems engineer and AI programmer currently pursuing an undergraduate de
 
 ### GitHub Analytics
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CNchanhoe&theme=dark)
-
 ![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CNchanhoe&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CNchanhoe&hide_border=true&theme=dark)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CNchanhoe&theme=dark)
