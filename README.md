@@ -58,7 +58,12 @@ I am an AI researcher and systems engineer currently pursuing an undergraduate d
 <br>
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Open AI](https://img.shields.io/badge/Open_AI-0081A5?style=flat-square&logo=openaigym&logoColor=white)
-
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=gemini&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?style=flat-square&logo=notebooklm&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 ---
 
