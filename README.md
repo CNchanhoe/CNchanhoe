@@ -54,6 +54,11 @@ I am an AI researcher and systems engineer currently pursuing an undergraduate d
 ![Siemens NX](https://img.shields.io/badge/Siemens_NX-000000?style=flat-square&logo=siemens&logoColor=white)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros_3D-8B0000?style=flat-square&logo=rhinoceros&logoColor=white)
 
+**AI Tools**
+<br>
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=ros&logoColor=white)
+
+
 ---
 
 ### GitHub Analytics
