@@ -57,7 +57,7 @@ I am an AI researcher and systems engineer currently pursuing an undergraduate d
 **AI Tools**
 <br>
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Open AI](https://img.shields.io/badge/Open_AI-0081A5?style=flat-square&logo=chatgpt&logoColor=white)
+![Open AI](https://img.shields.io/badge/Open_AI-0081A5?style=flat-square&logo=openaigym&logoColor=white)
 
 
 ---
