@@ -56,7 +56,7 @@ I am an AI researcher and systems engineer currently pursuing an undergraduate d
 
 **AI Tools**
 <br>
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=GitHub_Copilot&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
 
 ---
