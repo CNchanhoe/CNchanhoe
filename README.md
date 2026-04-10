@@ -35,6 +35,8 @@ I am an AI researcher and systems engineer currently pursuing an undergraduate d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![Json](https://img.shields.io/badge/Jason-000000?style=flat-square&logo=json&logoColor=white)
 
 **Machine Learning & Data Science**
 <br>
