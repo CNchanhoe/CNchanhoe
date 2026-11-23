@@ -2,7 +2,7 @@
 
 **Multidisciplinary Systems Engineer | AI Researcher**
 
-[Email Me](mailto:chan050714@gmail.com) | [Instagram](https://www.instagram.com/inout._.hoy?igsh=b3Y5bjJzejNuMmJz&utm_source=qr)
+[Email Me](mailto:chan050714@gmail.com) 
 
 ---
 
