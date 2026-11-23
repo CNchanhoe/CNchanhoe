@@ -55,6 +55,8 @@ I am an AI researcher and systems engineer currently pursuing an undergraduate d
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 ![Siemens NX](https://img.shields.io/badge/Siemens_NX-000000?style=flat-square&logo=siemens&logoColor=white)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros_3D-8B0000?style=flat-square&logo=rhinoceros&logoColor=white)
+![logisim](https://cdn.simpleicons.org/multisim-57B685?style=flat-square&logo=rhinoceros&logoColor=white)
+
 
 **AI Tools**
 <br>
